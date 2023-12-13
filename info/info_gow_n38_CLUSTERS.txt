@@ -1,0 +1,5 @@
+Resolucao: 1152 x 2048
+Tamanho em KB (Original): 2996.29 KB
+Cores unicas (Original): 104395
+Tamanho em KB (Gerada): 1769.72 KB
+Cores unicas (Gerada): 38

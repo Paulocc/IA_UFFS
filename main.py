@@ -19,8 +19,7 @@ info_directory = "info/"
 image_files = glob.glob(os.path.join(input_directory, "*.png"))
 
 #valores do cluster
-#n_clusters_values = [2, 3, 4, 5, 6, 7, 8]
-n_clusters_values = [2,3,5]
+n_clusters_values = [2, 5, 12, 25, 38, 47, 100]
 
 data = []
 

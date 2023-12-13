@@ -1,5 +1,5 @@
 Resolucao: 2160 x 3840
 Tamanho em KB (Original): 5528.36 KB
 Cores unicas (Original): 28563
-Tamanho em KB (Gerada): 1008.86 KB
+Tamanho em KB (Gerada): 1043.12 KB
 Cores unicas (Gerada): 5

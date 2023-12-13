@@ -1,0 +1,5 @@
+Resolucao: 1080 x 1920
+Tamanho em KB (Original): 2454.69 KB
+Cores unicas (Original): 365051
+Tamanho em KB (Gerada): 1707.85 KB
+Cores unicas (Gerada): 100
